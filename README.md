@@ -4,7 +4,7 @@ This implements a vanilla actor critic architecture.
 
 ## Architecture
 
-This is a simple actor critic architecture. Actor and critic network shares shallow two dense layers (1024, 512).
+This is a simple actor critic architecture. Actor and critic networks share shallow two dense layers (1024, 512).
 
 ## Demo
 
