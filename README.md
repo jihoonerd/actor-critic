@@ -18,4 +18,4 @@ This is a simple actor critic architecture. Actor and critic network shares shal
 
 * Python 3.8
 * Tensorflow 2.4
-* Tensorflow Probability
+* Tensorflow Probability 0.12
