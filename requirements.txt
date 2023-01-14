@@ -11,7 +11,7 @@ decorator==4.4.2
 dm-tree==0.1.5
 EasyProcess==0.3
 flatbuffers==1.12
-future==0.18.2
+future==0.18.3
 gast==0.3.3
 google-auth==1.25.0
 google-auth-oauthlib==0.4.2
