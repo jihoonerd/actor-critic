@@ -42,7 +42,7 @@ pyparsing==2.4.7
 pytest==6.2.2
 python-dateutil==2.8.1
 PyVirtualDisplay==2.0
-requests==2.25.1
+requests==2.31.0
 requests-oauthlib==1.3.0
 rsa==4.7
 scipy==1.6.0
